@@ -1,0 +1,58 @@
+baseURL = "https://brnr.link/"
+languageCode = "en"
+defaultContentLanguage = "en"
+
+title = "Burner's links"
+# copyright = "Copy, _right?_ :thinking_face:"
+
+enableEmoji = true
+disableKinds = ["taxonomy", "term"]
+
+[author]
+name = "Burner"
+headline = "Smol wah"
+image = "img/pfp.webp"
+
+links = [
+    { twitter = { href = "https://twitter.com/BurnerWah", text = "Twitter / @BurnerWah" } },
+    { github = { href = "https://github.com/YaBoiBurner", text = "GitHub / @YaBoiBurner" } },
+    { mastodon = { href = "https://stop.voring.me/@burner", text = "Fediverse / @burner@stop.voring.me" } },
+    { discord = { href = "https://discord.com/users/335251371701829632", text = "Discord / Burner#5817" } },
+    { telegram = { href = "https://t.me/BurnerWah", text = "Telegram / @BurnerWah" } },
+    { twitch = { href = "https://www.twitch.tv/burnerstwitch", text = "Twitch / @BurnersTwitch" } },
+    { steam = { href = "https://steamcommunity.com/id/BurnerWah", text = "Steam / @BurnerWah" } },
+    { keybase = { href = "https://keybase.io/yaboiburner", text = "Keybase / @yaboiburner" } },
+    # { email = "mailto:burner@burner.gay" },
+    # { link = "https://burner.gay/" },
+    # { amazon = "https://www.amazon.com/hz/wishlist/ls/wishlist-id" },
+    # { apple = "https://www.apple.com" },
+    # { codepen = "https://codepen.io/username" },
+    # { dev = "https://dev.to/username" },
+    # { dribbble = "https://dribbble.com/username" },
+    # { facebook = "https://facebook.com/username" },
+    # { flickr = "https://www.flickr.com/photos/username/" },
+    # { foursquare = "https://foursquare.com/username" },
+    # { gitlab = "https://gitlab.com/YaBoiBurner" },
+    # { google = "https://www.google.com/" },
+    # { instagram = "https://instagram.com/username" },
+    # { kickstarter = "https://www.kickstarter.com/profile/username" },
+    # { lastfm = "https://lastfm.com/user/username" },
+    # { linkedin = "https://linkedin.com/in/username" },
+    # { medium = "https://medium.com/username" },
+    # { microsoft = "https://www.microsoft.com/" },
+    # { patreon = "https://www.patreon.com/username" },
+    # { pinterest = "https://pinterest.com/username" },
+    # { reddit = "https://reddit.com/user/username" },
+    # { slack = "https://workspace.url/team/userid" },
+    # { snapchat = "https://snapchat.com/add/username" },
+    # { soundcloud = "https://soundcloud.com/username" },
+    # { tiktok = "https://tiktok.com/@username" },
+    # { tumblr = "https://username.tumblr.com" },
+    # { whatsapp = "https://wa.me/phone-number" },
+    # { youtube = "https://youtube.com/username" },
+]
+
+[module]
+[module.hugoVersion]
+extended = false
+min = "0.86.1"
