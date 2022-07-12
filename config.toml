@@ -8,6 +8,9 @@ title = "Burner's links"
 enableEmoji = true
 disableKinds = ["taxonomy", "term"]
 
+[social]
+twitter = "BurnerWah"
+
 [author]
 name = "Burner"
 headline = "Smol wah"

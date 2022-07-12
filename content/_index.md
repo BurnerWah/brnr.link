@@ -1,3 +1,4 @@
 ---
-images: ["img/pfp.webp"]
+title: Burner's links
+description: Smol wah
 ---
