@@ -28,7 +28,7 @@ links = [
     { steam = { href = "https://steamcommunity.com/id/BurnerWah", text = "Steam / @BurnerWah" } },
     { keybase = { href = "https://keybase.io/yaboiburner", text = "Keybase / @yaboiburner" } },
     # { email = "mailto:burner@burner.gay" },
-    # { youtube = "https://www.youtube.com/channel/UCvL17XLh2Q4c5PhpSwUVJIA" },
+    { youtube = { href = "https://www.youtube.com/@BurnerWah", text = "YouTube / @BurnerWah" } },
     # { gitlab = "https://gitlab.com/BurnerWah" },
     # { lastfm = "https://www.last.fm/user/YaBoiBurner" },
     # { amazon = "https://www.amazon.com/hz/wishlist/ls/wishlist-id" },
