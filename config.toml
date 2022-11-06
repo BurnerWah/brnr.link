@@ -28,10 +28,11 @@ links = [
     { twitch = { href = "https://www.twitch.tv/burnerstwitch", text = "Twitch / @BurnersTwitch" } },
     { steam = { href = "https://steamcommunity.com/id/BurnerWah", text = "Steam / @BurnerWah" } },
     { twitter = { href = "https://twitter.com/BurnerWah", text = "Twitter / @BurnerWah" } },
-    { keybase = { href = "https://keybase.io/yaboiburner", text = "Keybase / @yaboiburner" } },
-    # { email = "mailto:burner@burner.gay" },
+    { tumblr = { href = "https://www.tumblr.com/burnerwah", text = "Tumblr / @burnerwah" } },
     { youtube = { href = "https://www.youtube.com/@BurnerWah", text = "YouTube / @BurnerWah" } },
     { gitlab = { href = "https://gitlab.com/BurnerWah", text = "GitLab / @BurnerWah" } },
+    { keybase = { href = "https://keybase.io/yaboiburner", text = "Keybase / @yaboiburner" } },
+    # { email = "mailto:burner@burner.gay" },
     # { lastfm = "https://www.last.fm/user/YaBoiBurner" },
     # { amazon = "https://www.amazon.com/hz/wishlist/ls/wishlist-id" },
     # { apple = "https://www.apple.com" },
@@ -54,7 +55,6 @@ links = [
     # { snapchat = "https://snapchat.com/add/username" },
     # { soundcloud = "https://soundcloud.com/username" },
     # { tiktok = "https://tiktok.com/@username" },
-    # { tumblr = "https://username.tumblr.com" },
     # { whatsapp = "https://wa.me/phone-number" },
 ]
 
