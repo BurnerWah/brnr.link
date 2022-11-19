@@ -18,8 +18,8 @@ image = "img/pfp.webp"
 
 links = [
     { github = { href = "https://github.com/YaBoiBurner", text = "GitHub / @YaBoiBurner" } },
-    { mastodon = { href = "https://stop.voring.me/@burner", text = "Fediverse / @burner@stop.voring.me" } },
-    { mastodon = { href = "https://misskey.ai/@burner", text = "Fediverse / @burner@misskey.ai" } },
+    { mastodon = { href = "https://stop.voring.me/@burner", text = "Misskey / @burner@stop.voring.me" } },
+    { mastodon = { href = "https://queer.party/@burner", text = "Mastodon / @burner@queer.party" } },
     # { link = { href = "https://burner.gay/", text = "Website" } },
     { cohost = { href = "https://cohost.org/burner", text = "cohost / @burner" } },
     { link = { href = "https://furry.codes/", text = "Blog" } },
