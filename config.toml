@@ -27,6 +27,7 @@ links = [
     { telegram = { href = "https://t.me/BurnerWah", text = "Telegram / @BurnerWah" } },
     { twitch = { href = "https://www.twitch.tv/burnerstwitch", text = "Twitch / @BurnersTwitch" } },
     { steam = { href = "https://steamcommunity.com/id/BurnerWah", text = "Steam / @BurnerWah" } },
+    { pronouns-page = { href = "https://en.pronouns.page/@Burner", text = "en.pronouns.page / @Burner" } },
     { twitter = { href = "https://twitter.com/BurnerWah", text = "Twitter / @BurnerWah" } },
     { tumblr = { href = "https://www.tumblr.com/burnerwah", text = "Tumblr / @burnerwah" } },
     { youtube = { href = "https://www.youtube.com/@BurnerWah", text = "YouTube / @BurnerWah" } },

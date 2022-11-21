@@ -2,6 +2,10 @@
   background: rgb(131, 37, 79);
 }
 
+.link-pronouns-page {
+  background: #c71585;
+}
+
 /* The default color for this is really painful for me to look at */
 .link-youtube {
   background: rgb(175, 16, 10);
