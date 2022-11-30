@@ -6,6 +6,10 @@
   background: #c71585;
 }
 
+.link-codeberg {
+  background: #0b3049;
+}
+
 /* The default color for this is really painful for me to look at */
 .link-youtube {
   background: rgb(175, 16, 10);
