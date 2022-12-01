@@ -17,7 +17,7 @@ headline = "Smol wah"
 image = "img/pfp.webp"
 
 links = [
-    { github = { href = "https://github.com/YaBoiBurner", text = "GitHub / @YaBoiBurner" } },
+    { github = { href = "https://github.com/BurnerWah", text = "GitHub / @BurnerWah" } },
     { mastodon = { href = "https://stop.voring.me/@burner", text = "Misskey / @burner@stop.voring.me" } },
     { mastodon = { href = "https://queer.party/@burner", text = "Mastodon / @burner@queer.party" } },
     # { link = { href = "https://burner.gay/", text = "Website" } },
