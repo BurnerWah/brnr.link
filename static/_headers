@@ -1,0 +1,6 @@
+/*
+  X-Frame-Options: DENY
+  Referrer-Policy: no-referrer
+
+https://brnr.pages.dev/*
+  X-Robots-Tag: noindex
