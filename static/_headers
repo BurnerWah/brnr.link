@@ -1,7 +1,7 @@
 /*
   X-Frame-Options: DENY
   Referrer-Policy: no-referrer
-  Content-Security-Policy: default-src 'none'; img-src 'self'; script-src 'self' https://static.cloudflareinsights.com; style-src 'self'; object-src 'none'; require-trusted-types-for 'script';
+  Content-Security-Policy: default-src 'none'; img-src 'self'; script-src 'self' https://static.cloudflareinsights.com; style-src 'self'; object-src 'none'; require-trusted-types-for 'script'; base-uri 'self'; form-action 'none'; frame-ancestors 'self';
 
 https://brnr.pages.dev/*
   X-Robots-Tag: noindex
