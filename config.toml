@@ -25,7 +25,7 @@ links = [
     { link = { href = "https://furry.codes/", text = "Blog" } },
     # { discord = { href = "https://discord.com/users/335251371701829632", text = "Discord / Burner#5817" } },
     { telegram = { href = "https://t.me/BurnerWah", text = "Telegram / @BurnerWah" } },
-    { matrix = { href = "https://matrix.to/#/@burnerwah:matrix.org", text = "Matrix / @burnerwah:matrix.org" } },
+    { matrix = { href = "https://matrix.to/#/@burnerwah:plus.st", text = "Matrix / @burnerwah:plus.st" } },
     { twitch = { href = "https://www.twitch.tv/burnerwah", text = "Twitch / @BurnerWah" } },
     { steam = { href = "https://steamcommunity.com/id/BurnerWah", text = "Steam / @BurnerWah" } },
     { pronouns-page = { href = "https://en.pronouns.page/@Burner", text = "en.pronouns.page / @Burner" } },
