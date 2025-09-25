@@ -11,25 +11,24 @@ disableKinds = ["taxonomy", "term"]
 [social]
 twitter = "BurnerWah"
 
-[author]
+[params.author]
 name = "Burner"
 headline = "Smol wah"
 image = "img/pfp.webp"
 
 links = [
     { github = { href = "https://github.com/BurnerWah", text = "GitHub / @BurnerWah" } },
-    { mastodon = { href = "https://queer.party/@burner", text = "Mastodon / @burner@queer.party" } },
-    { mastodon = { href = "https://stop.voring.me/@burner", text = "Misskey / @burner@stop.voring.me" } },
+    { mastodon = { href = "https://meow.social/@burner", text = "Mastodon / @burner@meow.social" } },
+    # { mastodon = { href = "https://stop.voring.me/@burner", text = "Misskey / @burner@stop.voring.me" } },
     # { link = { href = "https://burner.gay/", text = "Website" } },
     { cohost = { href = "https://cohost.org/burner", text = "cohost / @burner" } },
     { link = { href = "https://furry.codes/", text = "Blog" } },
     # { discord = { href = "https://discord.com/users/335251371701829632", text = "Discord / Burner#5817" } },
-    { telegram = { href = "https://t.me/BurnerWah", text = "Telegram / @BurnerWah" } },
-    { matrix = { href = "https://matrix.to/#/@burnerwah:plus.st", text = "Matrix / @burnerwah:plus.st" } },
+    # { telegram = { href = "https://t.me/BurnerWah", text = "Telegram / @BurnerWah" } },
+    # { matrix = { href = "https://matrix.to/#/@burnerwah:plus.st", text = "Matrix / @burnerwah:plus.st" } },
     { twitch = { href = "https://www.twitch.tv/burnerwah", text = "Twitch / @BurnerWah" } },
     { steam = { href = "https://steamcommunity.com/id/BurnerWah", text = "Steam / @BurnerWah" } },
     { pronouns-page = { href = "https://en.pronouns.page/@Burner", text = "en.pronouns.page / @Burner" } },
-    # { twitter = { href = "https://twitter.com/BurnerWah", text = "Twitter / @BurnerWah" } },
     { tumblr = { href = "https://www.tumblr.com/burnerwah", text = "Tumblr / @burnerwah" } },
     { youtube = { href = "https://www.youtube.com/@BurnerWah", text = "YouTube / @BurnerWah" } },
     { gitlab = { href = "https://gitlab.com/BurnerWah", text = "GitLab / @BurnerWah" } },
@@ -42,11 +41,9 @@ links = [
     # { codepen = "https://codepen.io/username" },
     # { dev = "https://dev.to/username" },
     # { dribbble = "https://dribbble.com/username" },
-    # { facebook = "https://facebook.com/username" },
     # { flickr = "https://www.flickr.com/photos/username/" },
     # { foursquare = "https://foursquare.com/username" },
     # { google = "https://www.google.com/" },
-    # { instagram = "https://instagram.com/username" },
     # { kickstarter = "https://www.kickstarter.com/profile/username" },
     # { linkedin = "https://linkedin.com/in/username" },
     # { medium = "https://medium.com/username" },
