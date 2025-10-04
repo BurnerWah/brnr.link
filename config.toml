@@ -22,7 +22,7 @@ links = [
     # { mastodon = { href = "https://stop.voring.me/@burner", text = "Misskey / @burner@stop.voring.me" } },
     # { link = { href = "https://burner.gay/", text = "Website" } },
     { cohost = { href = "https://cohost.org/burner", text = "cohost / @burner" } },
-    { link = { href = "https://furry.codes/", text = "Blog" } },
+    # { link = { href = "https://furry.codes/", text = "Blog" } },
     # { discord = { href = "https://discord.com/users/335251371701829632", text = "Discord / Burner#5817" } },
     # { telegram = { href = "https://t.me/BurnerWah", text = "Telegram / @BurnerWah" } },
     # { matrix = { href = "https://matrix.to/#/@burnerwah:plus.st", text = "Matrix / @burnerwah:plus.st" } },
